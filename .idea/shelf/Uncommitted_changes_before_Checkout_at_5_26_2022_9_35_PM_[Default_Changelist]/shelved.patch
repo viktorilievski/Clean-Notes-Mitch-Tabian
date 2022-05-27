@@ -1,0 +1,93 @@
+Index: .idea/gradle.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"GradleMigrationSettings\" migrationVersion=\"1\" />\r\n  <component name=\"GradleSettings\">\r\n    <option name=\"linkedExternalProjectsSettings\">\r\n      <GradleProjectSettings>\r\n        <option name=\"delegatedBuild\" value=\"false\" />\r\n        <option name=\"testRunner\" value=\"PLATFORM\" />\r\n        <option name=\"distributionType\" value=\"DEFAULT_WRAPPED\" />\r\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\r\n        <option name=\"modules\">\r\n          <set>\r\n            <option value=\"$PROJECT_DIR$\" />\r\n            <option value=\"$PROJECT_DIR$/app\" />\r\n            <option value=\"$PROJECT_DIR$/buildSrc\" />\r\n          </set>\r\n        </option>\r\n        <option name=\"resolveModulePerSourceSet\" value=\"false\" />\r\n        <option name=\"useQualifiedModuleNames\" value=\"true\" />\r\n      </GradleProjectSettings>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/gradle.xml b/.idea/gradle.xml
+--- a/.idea/gradle.xml	(revision ea8f6c95c57685aed42b3b1286aecb33cc2bbf77)
++++ b/.idea/gradle.xml	(date 1653593697249)
+@@ -5,7 +5,7 @@
+     <option name="linkedExternalProjectsSettings">
+       <GradleProjectSettings>
+         <option name="delegatedBuild" value="false" />
+-        <option name="testRunner" value="PLATFORM" />
++        <option name="testRunner" value="GRADLE" />
+         <option name="distributionType" value="DEFAULT_WRAPPED" />
+         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+         <option name="modules">
+@@ -16,7 +16,6 @@
+           </set>
+         </option>
+         <option name="resolveModulePerSourceSet" value="false" />
+-        <option name="useQualifiedModuleNames" value="true" />
+       </GradleProjectSettings>
+     </option>
+   </component>
+Index: buildSrc/build/kotlin/buildSrcjar-classes.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>D:\\Android Studio Projects\\CleanNotes\\buildSrc\\build\\classes\\kotlin\\main\\dependencies\\AnnotationProcessing.class;D:\\Android Studio Projects\\CleanNotes\\buildSrc\\build\\classes\\kotlin\\main\\dependencies\\Application.class;D:\\Android Studio Projects\\CleanNotes\\buildSrc\\build\\classes\\kotlin\\main\\dependencies\\Build.class;D:\\Android Studio Projects\\CleanNotes\\buildSrc\\build\\classes\\kotlin\\main\\dependencies\\Java.class;D:\\Android Studio Projects\\CleanNotes\\buildSrc\\build\\classes\\kotlin\\main\\dependencies\\Repositories.class;D:\\Android Studio Projects\\CleanNotes\\buildSrc\\build\\classes\\kotlin\\main\\dependencies\\Versions.class;D:\\Android Studio Projects\\CleanNotes\\buildSrc\\build\\classes\\kotlin\\main\\dependencies\\dependencies\\AndroidTestDependencies.class;D:\\Android Studio Projects\\CleanNotes\\buildSrc\\build\\classes\\kotlin\\main\\dependencies\\dependencies\\Dependencies.class;D:\\Android Studio Projects\\CleanNotes\\buildSrc\\build\\classes\\kotlin\\main\\dependencies\\dependencies\\SupportDependencies.class;D:\\Android Studio Projects\\CleanNotes\\buildSrc\\build\\classes\\kotlin\\main\\dependencies\\dependencies\\TestDependencies.class
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/buildSrc/build/kotlin/buildSrcjar-classes.txt b/buildSrc/build/kotlin/buildSrcjar-classes.txt
+--- a/buildSrc/build/kotlin/buildSrcjar-classes.txt	(revision ea8f6c95c57685aed42b3b1286aecb33cc2bbf77)
++++ b/buildSrc/build/kotlin/buildSrcjar-classes.txt	(date 1653593700659)
+@@ -1,1 +1,1 @@
+-D:\Android Studio Projects\CleanNotes\buildSrc\build\classes\kotlin\main\dependencies\AnnotationProcessing.class;D:\Android Studio Projects\CleanNotes\buildSrc\build\classes\kotlin\main\dependencies\Application.class;D:\Android Studio Projects\CleanNotes\buildSrc\build\classes\kotlin\main\dependencies\Build.class;D:\Android Studio Projects\CleanNotes\buildSrc\build\classes\kotlin\main\dependencies\Java.class;D:\Android Studio Projects\CleanNotes\buildSrc\build\classes\kotlin\main\dependencies\Repositories.class;D:\Android Studio Projects\CleanNotes\buildSrc\build\classes\kotlin\main\dependencies\Versions.class;D:\Android Studio Projects\CleanNotes\buildSrc\build\classes\kotlin\main\dependencies\dependencies\AndroidTestDependencies.class;D:\Android Studio Projects\CleanNotes\buildSrc\build\classes\kotlin\main\dependencies\dependencies\Dependencies.class;D:\Android Studio Projects\CleanNotes\buildSrc\build\classes\kotlin\main\dependencies\dependencies\SupportDependencies.class;D:\Android Studio Projects\CleanNotes\buildSrc\build\classes\kotlin\main\dependencies\dependencies\TestDependencies.class
+\ No newline at end of file
++C:\Users\rotkiv\StudioProjects\Clean-Notes-Mitch-Tabian\buildSrc\build\classes\kotlin\main\dependencies\AnnotationProcessing.class;C:\Users\rotkiv\StudioProjects\Clean-Notes-Mitch-Tabian\buildSrc\build\classes\kotlin\main\dependencies\Application.class;C:\Users\rotkiv\StudioProjects\Clean-Notes-Mitch-Tabian\buildSrc\build\classes\kotlin\main\dependencies\Build.class;C:\Users\rotkiv\StudioProjects\Clean-Notes-Mitch-Tabian\buildSrc\build\classes\kotlin\main\dependencies\Java.class;C:\Users\rotkiv\StudioProjects\Clean-Notes-Mitch-Tabian\buildSrc\build\classes\kotlin\main\dependencies\Repositories.class;C:\Users\rotkiv\StudioProjects\Clean-Notes-Mitch-Tabian\buildSrc\build\classes\kotlin\main\dependencies\Versions.class;C:\Users\rotkiv\StudioProjects\Clean-Notes-Mitch-Tabian\buildSrc\build\classes\kotlin\main\dependencies\dependencies\AndroidTestDependencies.class;C:\Users\rotkiv\StudioProjects\Clean-Notes-Mitch-Tabian\buildSrc\build\classes\kotlin\main\dependencies\dependencies\Dependencies.class;C:\Users\rotkiv\StudioProjects\Clean-Notes-Mitch-Tabian\buildSrc\build\classes\kotlin\main\dependencies\dependencies\SupportDependencies.class;C:\Users\rotkiv\StudioProjects\Clean-Notes-Mitch-Tabian\buildSrc\build\classes\kotlin\main\dependencies\dependencies\TestDependencies.class
+\ No newline at end of file
+Index: .idea/compiler.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"CompilerConfiguration\">\r\n    <bytecodeTargetLevel target=\"1.8\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/compiler.xml b/.idea/compiler.xml
+--- a/.idea/compiler.xml	(revision ea8f6c95c57685aed42b3b1286aecb33cc2bbf77)
++++ b/.idea/compiler.xml	(date 1653593705357)
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="CompilerConfiguration">
+-    <bytecodeTargetLevel target="1.8" />
++    <bytecodeTargetLevel target="11" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: buildSrc/build/pluginUnderTestMetadata/plugin-under-test-metadata.properties
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>implementation-classpath=D\\:/Android Studio Projects/CleanNotes/buildSrc/build/classes/java/main;D\\:/Android Studio Projects/CleanNotes/buildSrc/build/classes/groovy/main;D\\:/Android Studio Projects/CleanNotes/buildSrc/build/classes/kotlin/main;D\\:/Android Studio Projects/CleanNotes/buildSrc/build/resources/main\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/buildSrc/build/pluginUnderTestMetadata/plugin-under-test-metadata.properties b/buildSrc/build/pluginUnderTestMetadata/plugin-under-test-metadata.properties
+--- a/buildSrc/build/pluginUnderTestMetadata/plugin-under-test-metadata.properties	(revision ea8f6c95c57685aed42b3b1286aecb33cc2bbf77)
++++ b/buildSrc/build/pluginUnderTestMetadata/plugin-under-test-metadata.properties	(date 1653593700704)
+@@ -1,1 +1,1 @@
+-implementation-classpath=D\:/Android Studio Projects/CleanNotes/buildSrc/build/classes/java/main;D\:/Android Studio Projects/CleanNotes/buildSrc/build/classes/groovy/main;D\:/Android Studio Projects/CleanNotes/buildSrc/build/classes/kotlin/main;D\:/Android Studio Projects/CleanNotes/buildSrc/build/resources/main
++implementation-classpath=C\:/Users/rotkiv/StudioProjects/Clean-Notes-Mitch-Tabian/buildSrc/build/classes/java/main;C\:/Users/rotkiv/StudioProjects/Clean-Notes-Mitch-Tabian/buildSrc/build/classes/groovy/main;C\:/Users/rotkiv/StudioProjects/Clean-Notes-Mitch-Tabian/buildSrc/build/classes/kotlin/main;C\:/Users/rotkiv/StudioProjects/Clean-Notes-Mitch-Tabian/buildSrc/build/resources/main
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"CMakeSettings\">\r\n    <configurations>\r\n      <configuration PROFILE_NAME=\"Debug\" CONFIG_NAME=\"Debug\" />\r\n    </configurations>\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_1_8\" default=\"true\" project-jdk-name=\"1.8\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/build/classes\" />\r\n  </component>\r\n  <component name=\"ProjectType\">\r\n    <option name=\"id\" value=\"Android\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision ea8f6c95c57685aed42b3b1286aecb33cc2bbf77)
++++ b/.idea/misc.xml	(date 1653593705347)
+@@ -5,7 +5,7 @@
+       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+     </configurations>
+   </component>
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/build/classes" />
+   </component>
+   <component name="ProjectType">

@@ -1,0 +1,59 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_5_26_2022_9_35_PM_[Default_Changelist]" date="1653593740667" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_26_2022_9_35_PM_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 5/26/2022 9:35 PM [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="buildSrc/build/kotlin/compileKotlin/build-history.bin" />
+    <option name="AFTER_PATH" value="buildSrc/build/kotlin/compileKotlin/build-history.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_26_2022_9_35_PM_[Default_Changelist]/build-history.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="buildSrc/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" />
+    <option name="AFTER_PATH" value="buildSrc/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_26_2022_9_35_PM_[Default_Changelist]/source-to-output.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" />
+    <option name="AFTER_PATH" value="buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_26_2022_9_35_PM_[Default_Changelist]/file-to-id.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" />
+    <option name="AFTER_PATH" value="buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_26_2022_9_35_PM_[Default_Changelist]/file-to-id.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" />
+    <option name="AFTER_PATH" value="buildSrc/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_26_2022_9_35_PM_[Default_Changelist]/id-to-file.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" />
+    <option name="AFTER_PATH" value="buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_26_2022_9_35_PM_[Default_Changelist]/class-fq-name-to-source.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" />
+    <option name="AFTER_PATH" value="buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_26_2022_9_35_PM_[Default_Changelist]/source-to-classes.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="buildSrc/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" />
+    <option name="AFTER_PATH" value="buildSrc/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_26_2022_9_35_PM_[Default_Changelist]/source-to-output.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" />
+    <option name="AFTER_PATH" value="buildSrc/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_26_2022_9_35_PM_[Default_Changelist]/internal-name-to-source.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="buildSrc/build/kotlin/compileKotlin/last-build.bin" />
+    <option name="AFTER_PATH" value="buildSrc/build/kotlin/compileKotlin/last-build.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_26_2022_9_35_PM_[Default_Changelist]/last-build.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="buildSrc/build/libs/buildSrc.jar" />
+    <option name="AFTER_PATH" value="buildSrc/build/libs/buildSrc.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_26_2022_9_35_PM_[Default_Changelist]/buildSrc.jar" />
+  </binary>
+</changelist>
